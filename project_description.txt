@@ -13,21 +13,14 @@ It waits 5 seconds for us to guess the meaning of the word.
 After 5 seconds, the card will flip to the other side, showing the english meaning.
 We have 2 buttons: (x) and (y). If we guessed the word, mark (y). If we didn't
 guess the word, mark (x). 
-The game will iterate through the list of words we didn't guess (x).
-The game will continue until we correctly guess the words. 
+The game will iterate throughout the dataset.
+It will create a list with the correctly guessed words and the wrongly guessed.
+The game will iterate over the wrong words. The correctly guessed words will be discarded.
 
 --------------------------
 Conclusions
 --------------------------
 
-1) Captchas
-	- EPS (1) - Numeric
-	- WORKPLACE (Aportes en linea) (1) - No soy un robot
-	- INSURANCE COMPANY (Sura) (1) - No soy un robot
-	- INSURANCE COMPANY (Positiva) - Numeric
-	- INSURANCE COMPANY (Colmena) - Numeric
-	- RUES (1) - Alphanumeric
-	
 	 
 -----------------
 End of Document
