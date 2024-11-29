@@ -2,7 +2,7 @@
 ## Description
 *This application is for language learning, specifically to learn the Russian language. The methodology employed is learning through repetition and memorization.*
 
-### 
+### Application
 1. When opened, the app will display the a card with a word written in Russian.
 2. The user has 5 seconds to guess the english translation before time runs out
 3. and the card automatically flips to the back side, showing the english meaning of the russian word.
@@ -28,19 +28,24 @@
 
 ## Installation
 1. Clone repository
+```
 git clone https://github.com/username/repository.git
 cd repository
-
+```
 2. Create virtual environment (optional but recommended)
+```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+```
 3. Install dependencies
+```
 pip install pandas
 pip install openpyxl
-
+```
 4. Run application
+```
 python main.py
+```
 
 ## Usage
 Card: front side
@@ -49,6 +54,7 @@ Card:  back side
 ![english](https://github.com/user-attachments/assets/503bf012-66b8-4c16-8f2f-a401bab65499)
 
 ## License
+Distributed under the MIT License. `LICENSE.txt` for more information.
 
 ## Contributing
 [@artificialintelligencecolombia](https://www.linkedin.com/in/danielmaldonadoco/)
