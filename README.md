@@ -8,7 +8,11 @@ This application is for language learning, specifically to learn the Russian lan
 ![Static Badge](https://img.shields.io/badge/jupyter--notebooks-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/pandas-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/tkinter-yellow?style=for-the-badge)
-
+## Images
+Card: front side
+![russian](https://github.com/user-attachments/assets/be9c5814-959c-4f9d-bbbc-8bb23b274ebc)
+Card:  back side
+![russian](https://github.com/user-attachments/assets/d0d57e95-97a6-4e93-9f74-f2496d5bc8b2)
 
 
 
