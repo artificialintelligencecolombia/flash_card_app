@@ -12,7 +12,8 @@ This application is for language learning, specifically to learn the Russian lan
 Card: front side
 ![russian](https://github.com/user-attachments/assets/be9c5814-959c-4f9d-bbbc-8bb23b274ebc)
 Card:  back side
-![russian](https://github.com/user-attachments/assets/d0d57e95-97a6-4e93-9f74-f2496d5bc8b2)
+![english](https://github.com/user-attachments/assets/503bf012-66b8-4c16-8f2f-a401bab65499)
+
 
 
 
