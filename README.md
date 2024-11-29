@@ -52,11 +52,13 @@ Card: front side
 ![russian](https://github.com/user-attachments/assets/be9c5814-959c-4f9d-bbbc-8bb23b274ebc)
 Card:  back side
 ![english](https://github.com/user-attachments/assets/503bf012-66b8-4c16-8f2f-a401bab65499)
+Words Dataset
+![words_dataset](https://github.com/user-attachments/assets/85001ecd-61e2-4bad-8fc3-8fbac7ccb8b6)
 
 ## License
 Distributed under the MIT License. `LICENSE.txt` for more information.
 
-## Contributing
+## Contributor(s)
 [@artificialintelligencecolombia](https://www.linkedin.com/in/danielmaldonadoco/)
 
 ## Contact
