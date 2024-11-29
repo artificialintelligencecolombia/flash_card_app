@@ -7,9 +7,11 @@ This application is for language learning, specifically to learn the Russian lan
 4.  There're two buttons: correct, incorrect, and the user has to press one depending on if he correctly guessed the word or not.
 > [!NOTE]
 > The game contains up to 50.000 cards.
+
 > [!IMPORTANT]
 > If the user successfully guess a card and press "correct" button, the game will take out that card from the list-to-learn. This is for 
  avoid repeated challenges and keep the user advances.
+
 > [!IMPORTANT]
 > If the user guesses the whole list of words, the game ends.
 
